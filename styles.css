@@ -23,6 +23,8 @@
         font-size: 1.5vw;
     }
     .cap{
+        padding-top: 3%;
+        padding-bottom: 8%;
         padding-left: 10%;
         padding-right: 10%;
     }
@@ -130,10 +132,6 @@ body{
     padding-top:var(--global-nav-collective-height);
     padding-right: 10%;
     padding-left: 10%;
-}
-.cap{
-    padding-top: 3%;
-    padding-bottom: 8%;
 }
 .navbar-nav{
     align-items: center;
